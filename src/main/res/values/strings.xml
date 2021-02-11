@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PatientValidation</string>
+    <string name="selected_gender">Selected item:</string>
+
+    <string-array name="SelectGender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+
+    </string-array>
+</resources>

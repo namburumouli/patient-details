@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="number" type="id" />
+    <item name="PatientName" type="id" />
+    <item name="username" type="id" />
+    <item name="email" type="id" />
+    <item name="useremail" type="id" />
+    <item name="usernumber" type="id" />
+    <item name="usergender" type="id" />
+    <item name="userdateofbirth" type="id" />
+    <item name="age" type="id" />
+    <item name="userage" type="id" />
+    <item name="loginButton" type="id" />
+</resources>
